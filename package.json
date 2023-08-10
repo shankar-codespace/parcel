@@ -1,0 +1,18 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "babel related",
+  "main": "app.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "shankar",
+  "license": "ISC"
+}
